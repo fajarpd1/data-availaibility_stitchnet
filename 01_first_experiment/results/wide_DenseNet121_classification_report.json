@@ -1,0 +1,81 @@
+{
+  "Normal": {
+    "precision": 0.5796915167095116,
+    "recall": 0.9260780287474333,
+    "f1-score": 0.7130434782608696,
+    "support": 487.0
+  },
+  "Skipped stitch": {
+    "precision": 0.6591928251121076,
+    "recall": 0.592741935483871,
+    "f1-score": 0.6242038216560509,
+    "support": 248.0
+  },
+  "Broken stitch": {
+    "precision": 0.8676470588235294,
+    "recall": 0.731404958677686,
+    "f1-score": 0.7937219730941704,
+    "support": 242.0
+  },
+  "Pinched fabric": {
+    "precision": 0.9696969696969697,
+    "recall": 0.9372384937238494,
+    "f1-score": 0.9531914893617022,
+    "support": 239.0
+  },
+  "Crooked seam": {
+    "precision": 0.8071748878923767,
+    "recall": 0.7346938775510204,
+    "f1-score": 0.7692307692307693,
+    "support": 245.0
+  },
+  "Thread sagging": {
+    "precision": 0.8290155440414507,
+    "recall": 0.6837606837606838,
+    "f1-score": 0.7494145199063232,
+    "support": 234.0
+  },
+  "Puckering": {
+    "precision": 0.9109311740890689,
+    "recall": 0.9,
+    "f1-score": 0.9054325955734407,
+    "support": 250.0
+  },
+  "Stain and damage": {
+    "precision": 0.8235294117647058,
+    "recall": 0.6086956521739131,
+    "f1-score": 0.7,
+    "support": 230.0
+  },
+  "Needle mark": {
+    "precision": 0.7524752475247525,
+    "recall": 0.6153846153846154,
+    "f1-score": 0.6770601336302895,
+    "support": 247.0
+  },
+  "Bobbin thread pulling up": {
+    "precision": 0.8210116731517509,
+    "recall": 0.8373015873015873,
+    "f1-score": 0.8290766208251473,
+    "support": 252.0
+  },
+  "Overlapped stitch": {
+    "precision": 0.8,
+    "recall": 0.6192468619246861,
+    "f1-score": 0.6981132075471698,
+    "support": 239.0
+  },
+  "accuracy": 0.7603844833504978,
+  "macro avg": {
+    "precision": 0.8018514826187477,
+    "recall": 0.7442315177026678,
+    "f1-score": 0.7647716917350847,
+    "support": 2913.0
+  },
+  "weighted avg": {
+    "precision": 0.7828239354955512,
+    "recall": 0.7603844833504978,
+    "f1-score": 0.7607762129081189,
+    "support": 2913.0
+  }
+}

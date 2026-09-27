@@ -1,0 +1,1058 @@
+{
+  "generated": "2026-08-08",
+  "source_lodo_folder": "/Users/fajarpitarsidharma/Documents/05 Another Job/21 Kolaborasi Pak Hamdan/q1-deployment-validity-study/Stitchnet-v5-partial run/normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo",
+  "selected_folder": "/Users/fajarpitarsidharma/Documents/05 Another Job/21 Kolaborasi Pak Hamdan/q1-deployment-validity-study/Stitchnet-v5-partial run/#RunResult/_selected_for_use_20260808/lodo_complete_from_normalized_checkpoint_20260712",
+  "source_symlink": "/Users/fajarpitarsidharma/Documents/05 Another Job/21 Kolaborasi Pak Hamdan/q1-deployment-validity-study/Stitchnet-v5-partial run/#RunResult/_selected_for_use_20260808/lodo_complete_from_normalized_checkpoint_20260712/source_lodo_folder",
+  "expected_lodo_keys": 33,
+  "coverage_counts": {
+    "metrics": 33,
+    "confusion_matrix": 33,
+    "classification_report": 33
+  },
+  "missing_by_kind": {
+    "metrics": [],
+    "confusion_matrix": [],
+    "classification_report": []
+  },
+  "structurally_complete": true,
+  "local_data_complete": false,
+  "main_csvs": [
+    {
+      "name": "domain_generalisation_results (1).csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_generalisation_results (1).csv",
+      "size": 15596,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "name": "domain_generalisation_results_partial.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_generalisation_results_partial.csv",
+      "size": 6653,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "name": "cold_start_adaptation_results (1).csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/cold_start_adaptation_results (1).csv",
+      "size": 5037,
+      "blocks": 0,
+      "dataless": true
+    }
+  ],
+  "archives": [
+    {
+      "name": "Archive.zip",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/Archive.zip",
+      "size": 72418231,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "name": "stitchnet_v5_phase0_plus_partial_lodo_checkpoint_20260712.zip",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_plus_partial_lodo_checkpoint_20260712.zip",
+      "size": 75252840,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "name": "stitchnet_v5_phase0_checkpoint_from_partial_20260712.zip",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712.zip",
+      "size": 73158262,
+      "blocks": 0,
+      "dataless": true
+    }
+  ],
+  "files": [
+    {
+      "kind": "classification_report",
+      "domain": "A",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.A.seed0_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.A.seed0_classification_report.json",
+      "size": 1880,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "B",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.B.seed0_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.B.seed0_classification_report.json",
+      "size": 2013,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "C",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.C.seed0_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.C.seed0_classification_report.json",
+      "size": 1794,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "D",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.D.seed0_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.D.seed0_classification_report.json",
+      "size": 1947,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "E",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.E.seed0_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.E.seed0_classification_report.json",
+      "size": 1947,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "F",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.F.seed0_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.F.seed0_classification_report.json",
+      "size": 1861,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "G",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.G.seed0_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.G.seed0_classification_report.json",
+      "size": 1906,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "H",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.H.seed0_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.H.seed0_classification_report.json",
+      "size": 1956,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "I",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.I.seed0_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.I.seed0_classification_report.json",
+      "size": 1777,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "J",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.J.seed0_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.J.seed0_classification_report.json",
+      "size": 1779,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "K",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.K.seed0_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.K.seed0_classification_report.json",
+      "size": 1899,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "A",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.A.seed1_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.A.seed1_classification_report.json",
+      "size": 1857,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "B",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.B.seed1_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.B.seed1_classification_report.json",
+      "size": 1890,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "C",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.C.seed1_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.C.seed1_classification_report.json",
+      "size": 1865,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "D",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.D.seed1_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.D.seed1_classification_report.json",
+      "size": 1934,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "E",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.E.seed1_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.E.seed1_classification_report.json",
+      "size": 1991,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "F",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.F.seed1_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.F.seed1_classification_report.json",
+      "size": 1880,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "G",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.G.seed1_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.G.seed1_classification_report.json",
+      "size": 1917,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "H",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.H.seed1_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.H.seed1_classification_report.json",
+      "size": 1910,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "I",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.I.seed1_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.I.seed1_classification_report.json",
+      "size": 1728,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "J",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.J.seed1_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.J.seed1_classification_report.json",
+      "size": 1795,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "K",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.K.seed1_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.K.seed1_classification_report.json",
+      "size": 1903,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "A",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.A.seed2_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.A.seed2_classification_report.json",
+      "size": 1928,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "B",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.B.seed2_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.B.seed2_classification_report.json",
+      "size": 1969,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "C",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.C.seed2_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.C.seed2_classification_report.json",
+      "size": 1822,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "D",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.D.seed2_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.D.seed2_classification_report.json",
+      "size": 1908,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "E",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.E.seed2_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.E.seed2_classification_report.json",
+      "size": 1943,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "F",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.F.seed2_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.F.seed2_classification_report.json",
+      "size": 1913,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "G",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.G.seed2_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.G.seed2_classification_report.json",
+      "size": 1933,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "H",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.H.seed2_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.H.seed2_classification_report.json",
+      "size": 1950,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "I",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.I.seed2_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.I.seed2_classification_report.json",
+      "size": 1789,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "J",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.J.seed2_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.J.seed2_classification_report.json",
+      "size": 1769,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "classification_report",
+      "domain": "K",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.K.seed2_classification_report.json",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.K.seed2_classification_report.json",
+      "size": 1873,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "A",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.A.seed0_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.A.seed0_confusion_matrix.csv",
+      "size": 597,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "B",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.B.seed0_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.B.seed0_confusion_matrix.csv",
+      "size": 596,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "C",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.C.seed0_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.C.seed0_confusion_matrix.csv",
+      "size": 600,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "D",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.D.seed0_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.D.seed0_confusion_matrix.csv",
+      "size": 599,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "E",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.E.seed0_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.E.seed0_confusion_matrix.csv",
+      "size": 596,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "F",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.F.seed0_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.F.seed0_confusion_matrix.csv",
+      "size": 594,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "G",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.G.seed0_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.G.seed0_confusion_matrix.csv",
+      "size": 595,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "H",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.H.seed0_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.H.seed0_confusion_matrix.csv",
+      "size": 593,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "I",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.I.seed0_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.I.seed0_confusion_matrix.csv",
+      "size": 591,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "J",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.J.seed0_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.J.seed0_confusion_matrix.csv",
+      "size": 590,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "K",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.K.seed0_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.K.seed0_confusion_matrix.csv",
+      "size": 590,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "A",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.A.seed1_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.A.seed1_confusion_matrix.csv",
+      "size": 589,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "B",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.B.seed1_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.B.seed1_confusion_matrix.csv",
+      "size": 592,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "C",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.C.seed1_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.C.seed1_confusion_matrix.csv",
+      "size": 588,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "D",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.D.seed1_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.D.seed1_confusion_matrix.csv",
+      "size": 602,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "E",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.E.seed1_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.E.seed1_confusion_matrix.csv",
+      "size": 594,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "F",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.F.seed1_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.F.seed1_confusion_matrix.csv",
+      "size": 591,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "G",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.G.seed1_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.G.seed1_confusion_matrix.csv",
+      "size": 592,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "H",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.H.seed1_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.H.seed1_confusion_matrix.csv",
+      "size": 596,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "I",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.I.seed1_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.I.seed1_confusion_matrix.csv",
+      "size": 592,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "J",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.J.seed1_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.J.seed1_confusion_matrix.csv",
+      "size": 594,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "K",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.K.seed1_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.K.seed1_confusion_matrix.csv",
+      "size": 592,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "A",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.A.seed2_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.A.seed2_confusion_matrix.csv",
+      "size": 591,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "B",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.B.seed2_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.B.seed2_confusion_matrix.csv",
+      "size": 592,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "C",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.C.seed2_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.C.seed2_confusion_matrix.csv",
+      "size": 595,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "D",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.D.seed2_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.D.seed2_confusion_matrix.csv",
+      "size": 601,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "E",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.E.seed2_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.E.seed2_confusion_matrix.csv",
+      "size": 595,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "F",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.F.seed2_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.F.seed2_confusion_matrix.csv",
+      "size": 588,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "G",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.G.seed2_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.G.seed2_confusion_matrix.csv",
+      "size": 592,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "H",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.H.seed2_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.H.seed2_confusion_matrix.csv",
+      "size": 591,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "I",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.I.seed2_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.I.seed2_confusion_matrix.csv",
+      "size": 594,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "J",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.J.seed2_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.J.seed2_confusion_matrix.csv",
+      "size": 590,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "confusion_matrix",
+      "domain": "K",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.K.seed2_confusion_matrix.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.K.seed2_confusion_matrix.csv",
+      "size": 594,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "A",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.A.seed0_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.A.seed0_metrics.csv",
+      "size": 831,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "B",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.B.seed0_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.B.seed0_metrics.csv",
+      "size": 832,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "C",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.C.seed0_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.C.seed0_metrics.csv",
+      "size": 836,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "D",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.D.seed0_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.D.seed0_metrics.csv",
+      "size": 829,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "E",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.E.seed0_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.E.seed0_metrics.csv",
+      "size": 829,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "F",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.F.seed0_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.F.seed0_metrics.csv",
+      "size": 833,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "G",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.G.seed0_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.G.seed0_metrics.csv",
+      "size": 834,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "H",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.H.seed0_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.H.seed0_metrics.csv",
+      "size": 831,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "I",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.I.seed0_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.I.seed0_metrics.csv",
+      "size": 834,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "J",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.J.seed0_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.J.seed0_metrics.csv",
+      "size": 831,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "K",
+      "seed": 0,
+      "name": "domain_MobileNetV1-S.C.lodo.K.seed0_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.K.seed0_metrics.csv",
+      "size": 831,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "A",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.A.seed1_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.A.seed1_metrics.csv",
+      "size": 833,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "B",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.B.seed1_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.B.seed1_metrics.csv",
+      "size": 833,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "C",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.C.seed1_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.C.seed1_metrics.csv",
+      "size": 833,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "D",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.D.seed1_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.D.seed1_metrics.csv",
+      "size": 833,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "E",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.E.seed1_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.E.seed1_metrics.csv",
+      "size": 831,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "F",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.F.seed1_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.F.seed1_metrics.csv",
+      "size": 829,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "G",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.G.seed1_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.G.seed1_metrics.csv",
+      "size": 829,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "H",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.H.seed1_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.H.seed1_metrics.csv",
+      "size": 830,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "I",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.I.seed1_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.I.seed1_metrics.csv",
+      "size": 833,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "J",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.J.seed1_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.J.seed1_metrics.csv",
+      "size": 829,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "K",
+      "seed": 1,
+      "name": "domain_MobileNetV1-S.C.lodo.K.seed1_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.K.seed1_metrics.csv",
+      "size": 832,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "A",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.A.seed2_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.A.seed2_metrics.csv",
+      "size": 834,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "B",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.B.seed2_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.B.seed2_metrics.csv",
+      "size": 833,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "C",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.C.seed2_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.C.seed2_metrics.csv",
+      "size": 832,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "D",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.D.seed2_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.D.seed2_metrics.csv",
+      "size": 833,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "E",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.E.seed2_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.E.seed2_metrics.csv",
+      "size": 831,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "F",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.F.seed2_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.F.seed2_metrics.csv",
+      "size": 830,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "G",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.G.seed2_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.G.seed2_metrics.csv",
+      "size": 833,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "H",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.H.seed2_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.H.seed2_metrics.csv",
+      "size": 833,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "I",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.I.seed2_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.I.seed2_metrics.csv",
+      "size": 836,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "J",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.J.seed2_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.J.seed2_metrics.csv",
+      "size": 833,
+      "blocks": 0,
+      "dataless": true
+    },
+    {
+      "kind": "metrics",
+      "domain": "K",
+      "seed": 2,
+      "name": "domain_MobileNetV1-S.C.lodo.K.seed2_metrics.csv",
+      "path": "normalized_checkpoints/stitchnet_v5_phase0_checkpoint_from_partial_20260712/lodo/domain_MobileNetV1-S.C.lodo.K.seed2_metrics.csv",
+      "size": 833,
+      "blocks": 0,
+      "dataless": true
+    }
+  ],
+  "interpretation": "LODO appears structurally complete from per-domain/seed artifact names, but files are dataless cloud placeholders until hydrated locally."
+}

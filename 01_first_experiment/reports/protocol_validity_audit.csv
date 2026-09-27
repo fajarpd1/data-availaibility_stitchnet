@@ -1,0 +1,3 @@
+protocol,row_count,expected_rows,valid_keys,row_count_ok,key_coverage_ok,duplicate_key_rows,no_errors,metric_columns_present,missing_count,extra_count,detail
+domain_generalisation,33,33,33,True,True,0,True,True,0,0,0 non-null error rows; missing=0; extra=0; duplicates=0
+cold_start_adaptation,198,198,198,True,True,0,True,True,0,0,0 non-null error rows; missing=0; extra=0; duplicates=0

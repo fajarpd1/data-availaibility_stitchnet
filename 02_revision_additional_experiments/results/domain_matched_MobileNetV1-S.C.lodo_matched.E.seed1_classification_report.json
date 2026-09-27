@@ -1,0 +1,81 @@
+{
+  "Normal": {
+    "precision": 0.5866261398176292,
+    "recall": 0.772,
+    "f1-score": 0.6666666666666666,
+    "support": 250.0
+  },
+  "Skipped stitch": {
+    "precision": 0.4482758620689655,
+    "recall": 0.48148148148148145,
+    "f1-score": 0.4642857142857143,
+    "support": 108.0
+  },
+  "Broken stitch": {
+    "precision": 0.7603305785123967,
+    "recall": 0.9019607843137255,
+    "f1-score": 0.8251121076233184,
+    "support": 102.0
+  },
+  "Pinched fabric": {
+    "precision": 1.0,
+    "recall": 0.5333333333333333,
+    "f1-score": 0.6956521739130435,
+    "support": 105.0
+  },
+  "Crooked seam": {
+    "precision": 0.43956043956043955,
+    "recall": 0.7476635514018691,
+    "f1-score": 0.5536332179930796,
+    "support": 107.0
+  },
+  "Thread sagging": {
+    "precision": 0.8620689655172413,
+    "recall": 0.44642857142857145,
+    "f1-score": 0.5882352941176471,
+    "support": 112.0
+  },
+  "Puckering": {
+    "precision": 0.5806451612903226,
+    "recall": 0.1487603305785124,
+    "f1-score": 0.23684210526315788,
+    "support": 121.0
+  },
+  "Stain and damage": {
+    "precision": 0.7311827956989247,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.6974358974358974,
+    "support": 102.0
+  },
+  "Needle mark": {
+    "precision": 0.25,
+    "recall": 0.12264150943396226,
+    "f1-score": 0.16455696202531644,
+    "support": 106.0
+  },
+  "Bobbin thread pulling up": {
+    "precision": 0.46987951807228917,
+    "recall": 0.9915254237288136,
+    "f1-score": 0.6376021798365122,
+    "support": 118.0
+  },
+  "Overlapped stitch": {
+    "precision": 0.921875,
+    "recall": 0.49166666666666664,
+    "f1-score": 0.6413043478260869,
+    "support": 120.0
+  },
+  "accuracy": 0.5906735751295337,
+  "macro avg": {
+    "precision": 0.6409494964125644,
+    "recall": 0.5731025744576003,
+    "f1-score": 0.5610296969987674,
+    "support": 1351.0
+  },
+  "weighted avg": {
+    "precision": 0.6355427320850981,
+    "recall": 0.5906735751295337,
+    "f1-score": 0.5688886140075752,
+    "support": 1351.0
+  }
+}

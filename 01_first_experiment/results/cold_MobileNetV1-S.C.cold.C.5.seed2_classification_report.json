@@ -1,0 +1,81 @@
+{
+  "Normal": {
+    "precision": 0.21428571428571427,
+    "recall": 0.11052631578947368,
+    "f1-score": 0.14583333333333334,
+    "support": 190.0
+  },
+  "Skipped stitch": {
+    "precision": 0.08695652173913043,
+    "recall": 0.020833333333333332,
+    "f1-score": 0.03361344537815126,
+    "support": 96.0
+  },
+  "Broken stitch": {
+    "precision": 0.32142857142857145,
+    "recall": 0.27835051546391754,
+    "f1-score": 0.2983425414364641,
+    "support": 97.0
+  },
+  "Pinched fabric": {
+    "precision": 0.984375,
+    "recall": 0.65625,
+    "f1-score": 0.7875,
+    "support": 96.0
+  },
+  "Crooked seam": {
+    "precision": 0.17045454545454544,
+    "recall": 0.2803738317757009,
+    "f1-score": 0.21201413427561838,
+    "support": 107.0
+  },
+  "Thread sagging": {
+    "precision": 0.125,
+    "recall": 0.01020408163265306,
+    "f1-score": 0.018867924528301886,
+    "support": 98.0
+  },
+  "Puckering": {
+    "precision": 0.7352941176470589,
+    "recall": 0.8152173913043478,
+    "f1-score": 0.7731958762886598,
+    "support": 92.0
+  },
+  "Stain and damage": {
+    "precision": 0.5232558139534884,
+    "recall": 0.5,
+    "f1-score": 0.5113636363636364,
+    "support": 90.0
+  },
+  "Needle mark": {
+    "precision": 0.9821428571428571,
+    "recall": 0.5238095238095238,
+    "f1-score": 0.6832298136645962,
+    "support": 105.0
+  },
+  "Bobbin thread pulling up": {
+    "precision": 0.6714285714285714,
+    "recall": 0.8867924528301887,
+    "f1-score": 0.7642276422764228,
+    "support": 106.0
+  },
+  "Overlapped stitch": {
+    "precision": 0.03625377643504532,
+    "recall": 0.13186813186813187,
+    "f1-score": 0.05687203791469194,
+    "support": 91.0
+  },
+  "accuracy": 0.3638698630136986,
+  "macro avg": {
+    "precision": 0.44098868086499843,
+    "recall": 0.3831114161642973,
+    "f1-score": 0.389550944132716,
+    "support": 1168.0
+  },
+  "weighted avg": {
+    "precision": 0.425997366352578,
+    "recall": 0.3638698630136986,
+    "f1-score": 0.3725071776008921,
+    "support": 1168.0
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "Normal": {
+    "precision": 0.5679347826086957,
+    "recall": 0.836,
+    "f1-score": 0.6763754045307443,
+    "support": 250.0
+  },
+  "Skipped stitch": {
+    "precision": 0.7333333333333333,
+    "recall": 0.7129629629629629,
+    "f1-score": 0.7230046948356808,
+    "support": 108.0
+  },
+  "Broken stitch": {
+    "precision": 0.6293706293706294,
+    "recall": 0.8823529411764706,
+    "f1-score": 0.7346938775510204,
+    "support": 102.0
+  },
+  "Pinched fabric": {
+    "precision": 1.0,
+    "recall": 0.5142857142857142,
+    "f1-score": 0.6792452830188679,
+    "support": 105.0
+  },
+  "Crooked seam": {
+    "precision": 0.31833910034602075,
+    "recall": 0.8598130841121495,
+    "f1-score": 0.46464646464646464,
+    "support": 107.0
+  },
+  "Thread sagging": {
+    "precision": 0.9210526315789473,
+    "recall": 0.3125,
+    "f1-score": 0.4666666666666667,
+    "support": 112.0
+  },
+  "Puckering": {
+    "precision": 0.30434782608695654,
+    "recall": 0.05785123966942149,
+    "f1-score": 0.09722222222222222,
+    "support": 121.0
+  },
+  "Stain and damage": {
+    "precision": 0.6454545454545455,
+    "recall": 0.696078431372549,
+    "f1-score": 0.6698113207547169,
+    "support": 102.0
+  },
+  "Needle mark": {
+    "precision": 0.25396825396825395,
+    "recall": 0.1509433962264151,
+    "f1-score": 0.1893491124260355,
+    "support": 106.0
+  },
+  "Bobbin thread pulling up": {
+    "precision": 0.963963963963964,
+    "recall": 0.9067796610169492,
+    "f1-score": 0.9344978165938864,
+    "support": 118.0
+  },
+  "Overlapped stitch": {
+    "precision": 1.0,
+    "recall": 0.39166666666666666,
+    "f1-score": 0.562874251497006,
+    "support": 120.0
+  },
+  "accuracy": 0.5958549222797928,
+  "macro avg": {
+    "precision": 0.6670695515192133,
+    "recall": 0.5746576452262998,
+    "f1-score": 0.5634897377039375,
+    "support": 1351.0
+  },
+  "weighted avg": {
+    "precision": 0.6594600381814305,
+    "recall": 0.5958549222797928,
+    "f1-score": 0.5724596808635916,
+    "support": 1351.0
+  }
+}

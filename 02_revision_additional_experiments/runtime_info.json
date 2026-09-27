@@ -1,0 +1,24 @@
+{
+  "timestamp_utc": "2026-09-27T01:25:31.255160+00:00",
+  "python": "3.14.4 (main, Aug 20 2026, 10:41:58) [GCC 15.2.0]",
+  "platform": "Linux-7.0.0-31-generic-x86_64-with-glibc2.43",
+  "tensorflow": "2.22.0-rc0",
+  "mlflow_available": false,
+  "tf_built_with_cuda": true,
+  "physical_gpus": [
+    "PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')"
+  ],
+  "nvidia_smi": "Sun Sep 27 08:25:31 2026       \n+-----------------------------------------------------------------------------------------+\n| NVIDIA-SMI 595.91.07              Driver Version: 595.91.07      CUDA Version: 13.2     |\n+-----------------------------------------+------------------------+----------------------+\n| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |\n| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |\n|                                         |                        |               MIG M. |\n|=========================================+========================+======================|\n|   0  NVIDIA GeForce RTX 4070 ...    Off |   00000000:01:00.0  On |                  N/A |\n|  0%   57C    P2             34W /  220W |    1017MiB /  12282MiB |      4%      Default |\n|                                         |                        |                  N/A |\n+-----------------------------------------+------------------------+----------------------+\n\n+-----------------------------------------------------------------------------------------+\n| Processes:                                                                              |\n|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |\n|        ID   ID                                                               Usage      |\n|=========================================================================================|\n|    0   N/A  N/A           56749      G   /usr/bin/gnome-shell                    150MiB |\n|    0   N/A  N/A           57640    C+G   ...exec/xdg-desktop-portal-gnome          7MiB |\n|    0   N/A  N/A           58566      G   /usr/bin/Xwayland                         8MiB |\n|    0   N/A  N/A           98512    C+G   /usr/bin/nautilus                       259MiB |\n|    0   N/A  N/A          103265    C+G   ptyxis                                  179MiB |\n|    0   N/A  N/A          540340      G   /usr/bin/rustdesk                        19MiB |\n|    0   N/A  N/A         1709072      C   /usr/share/rustdesk/rustdesk            238MiB |\n|    0   N/A  N/A         1710869      G   /usr/share/rustdesk/rustdesk             18MiB |\n+-----------------------------------------------------------------------------------------+",
+  "dataset_root": "/home/spirit2026/.cache/kagglehub/datasets/hyungjung/stitchingnet-dataset/versions/6",
+  "run_mode": "full",
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "deployment_validity_model_name": "MobileNetV1",
+  "final_selection_policy": "deployment_validity_backbone",
+  "fold_batch_size": 8,
+  "domain_epochs": 8,
+  "adapt_epochs": 8
+}

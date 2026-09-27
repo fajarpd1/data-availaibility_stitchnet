@@ -1,0 +1,81 @@
+{
+  "Normal": {
+    "precision": 0.4723127035830619,
+    "recall": 0.58,
+    "f1-score": 0.5206463195691203,
+    "support": 250.0
+  },
+  "Skipped stitch": {
+    "precision": 0.5901639344262295,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.6260869565217392,
+    "support": 108.0
+  },
+  "Broken stitch": {
+    "precision": 0.7322834645669292,
+    "recall": 0.9117647058823529,
+    "f1-score": 0.8122270742358079,
+    "support": 102.0
+  },
+  "Pinched fabric": {
+    "precision": 1.0,
+    "recall": 0.5142857142857142,
+    "f1-score": 0.6792452830188679,
+    "support": 105.0
+  },
+  "Crooked seam": {
+    "precision": 0.35964912280701755,
+    "recall": 0.7663551401869159,
+    "f1-score": 0.48955223880597015,
+    "support": 107.0
+  },
+  "Thread sagging": {
+    "precision": 0.7903225806451613,
+    "recall": 0.4375,
+    "f1-score": 0.5632183908045977,
+    "support": 112.0
+  },
+  "Puckering": {
+    "precision": 0.375,
+    "recall": 0.049586776859504134,
+    "f1-score": 0.08759124087591241,
+    "support": 121.0
+  },
+  "Stain and damage": {
+    "precision": 0.8947368421052632,
+    "recall": 0.5,
+    "f1-score": 0.6415094339622641,
+    "support": 102.0
+  },
+  "Needle mark": {
+    "precision": 0.20187793427230047,
+    "recall": 0.4056603773584906,
+    "f1-score": 0.26959247648902823,
+    "support": 106.0
+  },
+  "Bobbin thread pulling up": {
+    "precision": 0.8770491803278688,
+    "recall": 0.9067796610169492,
+    "f1-score": 0.8916666666666667,
+    "support": 118.0
+  },
+  "Overlapped stitch": {
+    "precision": 0.9767441860465116,
+    "recall": 0.35,
+    "f1-score": 0.5153374233128835,
+    "support": 120.0
+  },
+  "accuracy": 0.5507031828275352,
+  "macro avg": {
+    "precision": 0.6609218135254857,
+    "recall": 0.5535090038415084,
+    "f1-score": 0.554243045842078,
+    "support": 1351.0
+  },
+  "weighted avg": {
+    "precision": 0.6419287223568502,
+    "recall": 0.5507031828275352,
+    "f1-score": 0.5470584005849011,
+    "support": 1351.0
+  }
+}

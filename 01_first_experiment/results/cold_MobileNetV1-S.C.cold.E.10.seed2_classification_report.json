@@ -1,0 +1,81 @@
+{
+  "Normal": {
+    "precision": 0.7392739273927392,
+    "recall": 0.9531914893617022,
+    "f1-score": 0.8327137546468402,
+    "support": 235.0
+  },
+  "Skipped stitch": {
+    "precision": 0.6793893129770993,
+    "recall": 0.956989247311828,
+    "f1-score": 0.7946428571428571,
+    "support": 93.0
+  },
+  "Broken stitch": {
+    "precision": 0.8695652173913043,
+    "recall": 0.9195402298850575,
+    "f1-score": 0.8938547486033519,
+    "support": 87.0
+  },
+  "Pinched fabric": {
+    "precision": 0.975609756097561,
+    "recall": 0.8888888888888888,
+    "f1-score": 0.9302325581395349,
+    "support": 90.0
+  },
+  "Crooked seam": {
+    "precision": 0.7735849056603774,
+    "recall": 0.8913043478260869,
+    "f1-score": 0.8282828282828283,
+    "support": 92.0
+  },
+  "Thread sagging": {
+    "precision": 0.8876404494382022,
+    "recall": 0.8144329896907216,
+    "f1-score": 0.8494623655913979,
+    "support": 97.0
+  },
+  "Puckering": {
+    "precision": 0.8831168831168831,
+    "recall": 0.6415094339622641,
+    "f1-score": 0.7431693989071039,
+    "support": 106.0
+  },
+  "Stain and damage": {
+    "precision": 0.9420289855072463,
+    "recall": 0.7471264367816092,
+    "f1-score": 0.8333333333333334,
+    "support": 87.0
+  },
+  "Needle mark": {
+    "precision": 0.5423728813559322,
+    "recall": 0.3516483516483517,
+    "f1-score": 0.4266666666666667,
+    "support": 91.0
+  },
+  "Bobbin thread pulling up": {
+    "precision": 0.9615384615384616,
+    "recall": 0.970873786407767,
+    "f1-score": 0.966183574879227,
+    "support": 103.0
+  },
+  "Overlapped stitch": {
+    "precision": 1.0,
+    "recall": 0.7047619047619048,
+    "f1-score": 0.8268156424581006,
+    "support": 105.0
+  },
+  "accuracy": 0.8204047217537943,
+  "macro avg": {
+    "precision": 0.8412837073159825,
+    "recall": 0.8036606460478346,
+    "f1-score": 0.8113961571501129,
+    "support": 1186.0
+  },
+  "weighted avg": {
+    "precision": 0.8318734156944516,
+    "recall": 0.8204047217537943,
+    "f1-score": 0.8145959989065846,
+    "support": 1186.0
+  }
+}

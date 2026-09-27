@@ -1,0 +1,2 @@
+tflite_validation_status,tflite_validation_images,keras_subset_accuracy,tflite_subset_accuracy,keras_tflite_agreement,mean_abs_prob_diff,max_abs_prob_diff,tflite_inference_ms_per_image
+pass,512,0.978515625,0.966796875,0.96875,0.008592757396399975,0.9016133546829224,23.445015773177147

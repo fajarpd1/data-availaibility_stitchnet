@@ -1,0 +1,81 @@
+{
+  "Normal": {
+    "precision": 1.0,
+    "recall": 0.01809954751131222,
+    "f1-score": 0.035555555555555556,
+    "support": 221.0
+  },
+  "Skipped stitch": {
+    "precision": 0.6355140186915887,
+    "recall": 0.5666666666666667,
+    "f1-score": 0.5991189427312775,
+    "support": 120.0
+  },
+  "Broken stitch": {
+    "precision": 1.0,
+    "recall": 0.8,
+    "f1-score": 0.8888888888888888,
+    "support": 120.0
+  },
+  "Pinched fabric": {
+    "precision": 0.9407407407407408,
+    "recall": 0.9769230769230769,
+    "f1-score": 0.9584905660377359,
+    "support": 130.0
+  },
+  "Crooked seam": {
+    "precision": 0.8666666666666667,
+    "recall": 0.10833333333333334,
+    "f1-score": 0.1925925925925926,
+    "support": 120.0
+  },
+  "Thread sagging": {
+    "precision": 0.21145374449339208,
+    "recall": 0.4,
+    "f1-score": 0.276657060518732,
+    "support": 120.0
+  },
+  "Puckering": {
+    "precision": 0.8448275862068966,
+    "recall": 0.44545454545454544,
+    "f1-score": 0.5833333333333334,
+    "support": 110.0
+  },
+  "Stain and damage": {
+    "precision": 0.16478190630048464,
+    "recall": 0.9107142857142857,
+    "f1-score": 0.27906976744186046,
+    "support": 112.0
+  },
+  "Needle mark": {
+    "precision": 0.5434782608695652,
+    "recall": 0.22727272727272727,
+    "f1-score": 0.32051282051282054,
+    "support": 110.0
+  },
+  "Bobbin thread pulling up": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 102.0
+  },
+  "Overlapped stitch": {
+    "precision": 0.5294117647058824,
+    "recall": 0.32727272727272727,
+    "f1-score": 0.4044943820224719,
+    "support": 110.0
+  },
+  "accuracy": 0.41309090909090906,
+  "macro avg": {
+    "precision": 0.6124431535159288,
+    "recall": 0.43461244637715224,
+    "f1-score": 0.4126103554213881,
+    "support": 1375.0
+  },
+  "weighted avg": {
+    "precision": 0.6533359554037863,
+    "recall": 0.41309090909090906,
+    "f1-score": 0.3945496163123634,
+    "support": 1375.0
+  }
+}

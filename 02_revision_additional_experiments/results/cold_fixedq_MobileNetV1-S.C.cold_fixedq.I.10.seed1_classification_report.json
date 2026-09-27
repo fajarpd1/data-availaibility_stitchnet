@@ -1,0 +1,81 @@
+{
+  "Normal": {
+    "precision": 0.631578947368421,
+    "recall": 0.6,
+    "f1-score": 0.6153846153846154,
+    "support": 20.0
+  },
+  "Skipped stitch": {
+    "precision": 0.6363636363636364,
+    "recall": 0.7,
+    "f1-score": 0.6666666666666666,
+    "support": 20.0
+  },
+  "Broken stitch": {
+    "precision": 0.59375,
+    "recall": 0.95,
+    "f1-score": 0.7307692307692307,
+    "support": 20.0
+  },
+  "Pinched fabric": {
+    "precision": 0.9375,
+    "recall": 0.75,
+    "f1-score": 0.8333333333333334,
+    "support": 20.0
+  },
+  "Crooked seam": {
+    "precision": 0.6428571428571429,
+    "recall": 0.45,
+    "f1-score": 0.5294117647058824,
+    "support": 20.0
+  },
+  "Thread sagging": {
+    "precision": 0.8461538461538461,
+    "recall": 0.55,
+    "f1-score": 0.6666666666666666,
+    "support": 20.0
+  },
+  "Puckering": {
+    "precision": 1.0,
+    "recall": 0.9,
+    "f1-score": 0.9473684210526315,
+    "support": 20.0
+  },
+  "Stain and damage": {
+    "precision": 0.6923076923076923,
+    "recall": 0.9,
+    "f1-score": 0.782608695652174,
+    "support": 20.0
+  },
+  "Needle mark": {
+    "precision": 0.5,
+    "recall": 0.75,
+    "f1-score": 0.6,
+    "support": 20.0
+  },
+  "Bobbin thread pulling up": {
+    "precision": 0.625,
+    "recall": 0.5,
+    "f1-score": 0.5555555555555556,
+    "support": 20.0
+  },
+  "Overlapped stitch": {
+    "precision": 0.9285714285714286,
+    "recall": 0.65,
+    "f1-score": 0.7647058823529411,
+    "support": 20.0
+  },
+  "accuracy": 0.7,
+  "macro avg": {
+    "precision": 0.7303711539656516,
+    "recall": 0.7000000000000001,
+    "f1-score": 0.6993155301945179,
+    "support": 220.0
+  },
+  "weighted avg": {
+    "precision": 0.7303711539656516,
+    "recall": 0.7,
+    "f1-score": 0.6993155301945179,
+    "support": 220.0
+  }
+}

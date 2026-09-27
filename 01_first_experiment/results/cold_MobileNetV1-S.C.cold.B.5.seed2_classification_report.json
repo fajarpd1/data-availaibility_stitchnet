@@ -1,0 +1,81 @@
+{
+  "Normal": {
+    "precision": 0.7368421052631579,
+    "recall": 0.26666666666666666,
+    "f1-score": 0.3916083916083916,
+    "support": 210.0
+  },
+  "Skipped stitch": {
+    "precision": 0.48717948717948717,
+    "recall": 0.6129032258064516,
+    "f1-score": 0.5428571428571428,
+    "support": 93.0
+  },
+  "Broken stitch": {
+    "precision": 0.970873786407767,
+    "recall": 0.9345794392523364,
+    "f1-score": 0.9523809523809523,
+    "support": 107.0
+  },
+  "Pinched fabric": {
+    "precision": 1.0,
+    "recall": 0.9893617021276596,
+    "f1-score": 0.9946524064171123,
+    "support": 94.0
+  },
+  "Crooked seam": {
+    "precision": 0.7727272727272727,
+    "recall": 0.9916666666666667,
+    "f1-score": 0.8686131386861314,
+    "support": 120.0
+  },
+  "Thread sagging": {
+    "precision": 0.8351648351648352,
+    "recall": 0.8351648351648352,
+    "f1-score": 0.8351648351648352,
+    "support": 91.0
+  },
+  "Puckering": {
+    "precision": 0.6144578313253012,
+    "recall": 0.5,
+    "f1-score": 0.5513513513513514,
+    "support": 102.0
+  },
+  "Stain and damage": {
+    "precision": 0.6265060240963856,
+    "recall": 0.5591397849462365,
+    "f1-score": 0.5909090909090909,
+    "support": 93.0
+  },
+  "Needle mark": {
+    "precision": 0.9423076923076923,
+    "recall": 0.4083333333333333,
+    "f1-score": 0.5697674418604651,
+    "support": 120.0
+  },
+  "Bobbin thread pulling up": {
+    "precision": 0.29831932773109243,
+    "recall": 0.7473684210526316,
+    "f1-score": 0.4264264264264264,
+    "support": 95.0
+  },
+  "Overlapped stitch": {
+    "precision": 0.6390977443609023,
+    "recall": 0.8673469387755102,
+    "f1-score": 0.7359307359307359,
+    "support": 98.0
+  },
+  "accuracy": 0.6614881439084219,
+  "macro avg": {
+    "precision": 0.7203160096876267,
+    "recall": 0.7011391830720298,
+    "f1-score": 0.678151083053876,
+    "support": 1223.0
+  },
+  "weighted avg": {
+    "precision": 0.7290628777438668,
+    "recall": 0.6614881439084219,
+    "f1-score": 0.6545832708267739,
+    "support": 1223.0
+  }
+}

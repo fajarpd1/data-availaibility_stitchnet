@@ -1,0 +1,108 @@
+{
+  "image_count": 14565,
+  "class_count": 11,
+  "domain_count": 11,
+  "class_counts": [
+    {
+      "class_id": "0",
+      "label": "Normal",
+      "n": 2436
+    },
+    {
+      "class_id": "1",
+      "label": "Skipped stitch",
+      "n": 1239
+    },
+    {
+      "class_id": "10",
+      "label": "Overlapped stitch",
+      "n": 1203
+    },
+    {
+      "class_id": "2",
+      "label": "Broken stitch",
+      "n": 1201
+    },
+    {
+      "class_id": "3",
+      "label": "Pinched fabric",
+      "n": 1192
+    },
+    {
+      "class_id": "4",
+      "label": "Crooked seam",
+      "n": 1230
+    },
+    {
+      "class_id": "5",
+      "label": "Thread sagging",
+      "n": 1173
+    },
+    {
+      "class_id": "6",
+      "label": "Puckering",
+      "n": 1240
+    },
+    {
+      "class_id": "7",
+      "label": "Stain and damage",
+      "n": 1162
+    },
+    {
+      "class_id": "8",
+      "label": "Needle mark",
+      "n": 1232
+    },
+    {
+      "class_id": "9",
+      "label": "Bobbin thread pulling up",
+      "n": 1257
+    }
+  ],
+  "domain_counts": [
+    {
+      "fabric_thread": "A",
+      "n": 1394
+    },
+    {
+      "fabric_thread": "B",
+      "n": 1333
+    },
+    {
+      "fabric_thread": "C",
+      "n": 1278
+    },
+    {
+      "fabric_thread": "D",
+      "n": 1271
+    },
+    {
+      "fabric_thread": "E",
+      "n": 1351
+    },
+    {
+      "fabric_thread": "F",
+      "n": 1298
+    },
+    {
+      "fabric_thread": "G",
+      "n": 1270
+    },
+    {
+      "fabric_thread": "H",
+      "n": 1375
+    },
+    {
+      "fabric_thread": "I",
+      "n": 1268
+    },
+    {
+      "fabric_thread": "J",
+      "n": 1416
+    },
+    {
+      "fabric_thread": "K",
+      "n": 1311
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "timestamp_utc": "2026-08-07T23:43:59.407931+00:00",
+  "python": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+  "platform": "Linux-6.12.90+-x86_64-with-glibc2.35",
+  "tensorflow": "2.20.0",
+  "mlflow_available": false,
+  "tf_built_with_cuda": true,
+  "physical_gpus": [
+    "PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')"
+  ],
+  "nvidia_smi": "Fri Aug  7 23:43:59 2026       \n+-----------------------------------------------------------------------------------------+\n| NVIDIA-SMI 580.159.04             Driver Version: 580.159.04     CUDA Version: 13.0     |\n+-----------------------------------------+------------------------+----------------------+\n| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |\n| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |\n|                                         |                        |               MIG M. |\n|=========================================+========================+======================|\n|   0  Tesla P100-PCIE-16GB           Off |   00000000:00:04.0 Off |                    0 |\n| N/A   39C    P0             32W /  250W |    1301MiB /  16384MiB |      0%      Default |\n|                                         |                        |                  N/A |\n+-----------------------------------------+------------------------+----------------------+\n\n+-----------------------------------------------------------------------------------------+\n| Processes:                                                                              |\n|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |\n|        ID   ID                                                               Usage      |\n|=========================================================================================|\n|  No running processes found                                                             |\n+-----------------------------------------------------------------------------------------+",
+  "dataset_root": "/kaggle/input/datasets/hyungjung/stitchingnet-dataset",
+  "run_mode": "full",
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "deployment_validity_model_name": "MobileNetV1",
+  "final_selection_policy": "deployment_validity_backbone",
+  "fold_batch_size": 8,
+  "domain_epochs": 8,
+  "adapt_epochs": 8
+}

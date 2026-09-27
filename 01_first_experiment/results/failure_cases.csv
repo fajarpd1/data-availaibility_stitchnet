@@ -1,0 +1,26 @@
+case_type,filepath,true_class,pred_class,confidence,fabric_thread
+true_positive,/kaggle/input/datasets/hyungjung/stitchingnet-dataset/A. Cotton-Poly/0. Normal/A_00_032.jpg,0,0,0.9996873736381531,A
+true_positive,/kaggle/input/datasets/hyungjung/stitchingnet-dataset/A. Cotton-Poly/0. Normal/A_00_181.jpg,0,0,0.998856782913208,A
+true_positive,/kaggle/input/datasets/hyungjung/stitchingnet-dataset/A. Cotton-Poly/0. Normal/A_00_128.jpg,0,0,0.9980218410491943,A
+true_positive,/kaggle/input/datasets/hyungjung/stitchingnet-dataset/A. Cotton-Poly/0. Normal/A_00_204.jpg,0,0,0.9945334196090698,A
+true_positive,/kaggle/input/datasets/hyungjung/stitchingnet-dataset/A. Cotton-Poly/0. Normal/A_00_033.jpg,0,0,0.9995476603507996,A
+misclassification,/kaggle/input/datasets/hyungjung/stitchingnet-dataset/A. Cotton-Poly/5. Thread sagging/A_05_040.jpg,5,1,0.5210721492767334,A
+misclassification,/kaggle/input/datasets/hyungjung/stitchingnet-dataset/B. Linen-Poly/0. Normal/B_00_176.jpg,0,9,0.8153194189071655,B
+misclassification,/kaggle/input/datasets/hyungjung/stitchingnet-dataset/B. Linen-Poly/1. Skipped stitch/B_01_038.jpg,1,10,0.4754755198955536,B
+misclassification,/kaggle/input/datasets/hyungjung/stitchingnet-dataset/B. Linen-Poly/1. Skipped stitch/B_01_059.jpg,1,10,0.741725504398346,B
+misclassification,/kaggle/input/datasets/hyungjung/stitchingnet-dataset/B. Linen-Poly/10. Overlapped stitch/B_10_068.jpg,10,5,0.5682480931282043,B
+misclassification,/kaggle/input/datasets/hyungjung/stitchingnet-dataset/B. Linen-Poly/2. Broken stitch/B_02_088.jpg,2,10,0.6267994046211243,B
+misclassification,/kaggle/input/datasets/hyungjung/stitchingnet-dataset/B. Linen-Poly/2. Broken stitch/B_02_114.jpg,2,1,0.2394169270992279,B
+misclassification,/kaggle/input/datasets/hyungjung/stitchingnet-dataset/B. Linen-Poly/7. Stain and damage/B_07_066.jpg,7,9,0.9954342246055603,B
+high_confidence_error,/kaggle/input/datasets/hyungjung/stitchingnet-dataset/B. Linen-Poly/7. Stain and damage/B_07_066.jpg,7,9,0.9954342246055603,B
+misclassification,/kaggle/input/datasets/hyungjung/stitchingnet-dataset/B. Linen-Poly/7. Stain and damage/B_07_092.jpg,7,8,0.9436897039413452,B
+high_confidence_error,/kaggle/input/datasets/hyungjung/stitchingnet-dataset/B. Linen-Poly/7. Stain and damage/B_07_092.jpg,7,8,0.9436897039413452,B
+misclassification,/kaggle/input/datasets/hyungjung/stitchingnet-dataset/B. Linen-Poly/7. Stain and damage/B_07_010.jpg,7,9,0.5217223763465881,B
+high_confidence_error,/kaggle/input/datasets/hyungjung/stitchingnet-dataset/D. Velveteen-Poly/0. Normal/D_00_010.jpg,0,8,0.9971261620521545,D
+high_confidence_error,/kaggle/input/datasets/hyungjung/stitchingnet-dataset/D. Velveteen-Poly/5. Thread sagging/D_05_010.jpg,5,4,0.9351086020469666,D
+high_confidence_error,/kaggle/input/datasets/hyungjung/stitchingnet-dataset/E. Polyester-Poly/1. Skipped stitch/E_01_010.jpg,1,0,0.9009174704551697,E
+high_confidence_error,/kaggle/input/datasets/hyungjung/stitchingnet-dataset/E. Polyester-Poly/9. Bobbin thread pulling up/E_09_084.jpg,9,1,0.9990255832672119,E
+high_confidence_error,/kaggle/input/datasets/hyungjung/stitchingnet-dataset/F. Satin-Core/4. Crooked seam/F_04_013.jpg,4,6,0.9999961853027344,F
+high_confidence_error,/kaggle/input/datasets/hyungjung/stitchingnet-dataset/F. Satin-Core/7. Stain and damage/F_07_089.jpg,7,8,0.9021760821342468,F
+high_confidence_error,/kaggle/input/datasets/hyungjung/stitchingnet-dataset/H. Nylon-Core/10. Overlapped stitch/H_10_066.jpg,10,7,0.9105724096298218,H
+high_confidence_error,/kaggle/input/datasets/hyungjung/stitchingnet-dataset/I. Jacquard-Poly/7. Stain and damage/I_07_059.jpg,7,10,0.9557058811187744,I

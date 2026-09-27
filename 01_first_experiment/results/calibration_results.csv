@@ -1,0 +1,2 @@
+model,ece_15_bins,negative_log_likelihood,brier_score_multiclass,high_confidence_error_rate_0_90,test_accuracy,test_macro_f1
+MobileNetV1-S.C.stable,0.005548020316447103,0.07789623049148997,0.030810064969238486,0.0034328870580157913,0.98043254376931,0.9805482719359166

@@ -1,0 +1,81 @@
+{
+  "Normal": {
+    "precision": 0.512,
+    "recall": 0.512,
+    "f1-score": 0.512,
+    "support": 250.0
+  },
+  "Skipped stitch": {
+    "precision": 0.8,
+    "recall": 0.7407407407407407,
+    "f1-score": 0.7692307692307693,
+    "support": 108.0
+  },
+  "Broken stitch": {
+    "precision": 0.8482142857142857,
+    "recall": 0.9313725490196079,
+    "f1-score": 0.8878504672897196,
+    "support": 102.0
+  },
+  "Pinched fabric": {
+    "precision": 0.9701492537313433,
+    "recall": 0.6190476190476191,
+    "f1-score": 0.7558139534883721,
+    "support": 105.0
+  },
+  "Crooked seam": {
+    "precision": 0.3028169014084507,
+    "recall": 0.8037383177570093,
+    "f1-score": 0.4398976982097187,
+    "support": 107.0
+  },
+  "Thread sagging": {
+    "precision": 0.9166666666666666,
+    "recall": 0.09821428571428571,
+    "f1-score": 0.1774193548387097,
+    "support": 112.0
+  },
+  "Puckering": {
+    "precision": 0.5,
+    "recall": 0.14049586776859505,
+    "f1-score": 0.21935483870967742,
+    "support": 121.0
+  },
+  "Stain and damage": {
+    "precision": 0.7142857142857143,
+    "recall": 0.5882352941176471,
+    "f1-score": 0.6451612903225806,
+    "support": 102.0
+  },
+  "Needle mark": {
+    "precision": 0.28634361233480177,
+    "recall": 0.6132075471698113,
+    "f1-score": 0.39039039039039036,
+    "support": 106.0
+  },
+  "Bobbin thread pulling up": {
+    "precision": 0.9262295081967213,
+    "recall": 0.9576271186440678,
+    "f1-score": 0.9416666666666667,
+    "support": 118.0
+  },
+  "Overlapped stitch": {
+    "precision": 1.0,
+    "recall": 0.49166666666666664,
+    "f1-score": 0.659217877094972,
+    "support": 120.0
+  },
+  "accuracy": 0.5766099185788305,
+  "macro avg": {
+    "precision": 0.7069732674852712,
+    "recall": 0.5905769096950954,
+    "f1-score": 0.5816366642037797,
+    "support": 1351.0
+  },
+  "weighted avg": {
+    "precision": 0.689012769529137,
+    "recall": 0.5766099185788305,
+    "f1-score": 0.5713476963015158,
+    "support": 1351.0
+  }
+}

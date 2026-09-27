@@ -1,0 +1,12 @@
+{
+  "created": "2026-08-09",
+  "cold_start_status": "complete_198_of_198",
+  "cold_start_final_folder": "q1-deployment-validity-study/Stitchnet-v5-partial run/#RunResult/_selected_for_use_20260809/coldstart_final_198_complete_20260809",
+  "cold_start_final_zip": "q1-deployment-validity-study/Stitchnet-v5-partial run/#RunResult/_selected_for_use_20260809/coldstart_final_198_complete_20260809.zip",
+  "cold_start_final_csv": "q1-deployment-validity-study/Stitchnet-v5-partial run/#RunResult/_selected_for_use_20260809/cold_start_selected_merged_198_rows.csv",
+  "cold_start_source_checkpoint": "q1-deployment-validity-study/Stitchnet-v5-partial run/#RunResult/stitchnet_v5_cold_start_checkpoint_FINAL_SEED1_IJK_FROM_180_ROWS_after_seed1_domainK_20260809_111350",
+  "cold_start_intermediate_j_checkpoint": "q1-deployment-validity-study/Stitchnet-v5-partial run/#RunResult/stitchnet_v5_cold_start_checkpoint_FINAL_SEED1_IJK_FROM_180_ROWS_after_seed1_domainJ_20260809_101622",
+  "audit_report": "q1-deployment-validity-study/Stitchnet-v5-partial run/#RunResult/COLDSTART_FINAL_198_AUDIT_20260809.md",
+  "next_step": "Regenerate final compact/publication evidence package using selected 198-row cold-start CSV and selected complete LODO evidence; then update manuscript tables/figures.",
+  "caveat": "Source checkpoint package audit files are stale and still report 186 rows; use local selected audit for cold-start completeness."
+}

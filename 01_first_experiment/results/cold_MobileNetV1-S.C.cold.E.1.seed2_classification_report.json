@@ -1,0 +1,81 @@
+{
+  "Normal": {
+    "precision": 0.5718232044198895,
+    "recall": 0.8483606557377049,
+    "f1-score": 0.6831683168316832,
+    "support": 244.0
+  },
+  "Skipped stitch": {
+    "precision": 0.6989247311827957,
+    "recall": 0.6372549019607843,
+    "f1-score": 0.6666666666666666,
+    "support": 102.0
+  },
+  "Broken stitch": {
+    "precision": 0.8775510204081632,
+    "recall": 0.8958333333333334,
+    "f1-score": 0.8865979381443299,
+    "support": 96.0
+  },
+  "Pinched fabric": {
+    "precision": 0.953125,
+    "recall": 0.6161616161616161,
+    "f1-score": 0.7484662576687117,
+    "support": 99.0
+  },
+  "Crooked seam": {
+    "precision": 0.6065573770491803,
+    "recall": 0.7326732673267327,
+    "f1-score": 0.6636771300448431,
+    "support": 101.0
+  },
+  "Thread sagging": {
+    "precision": 0.9344262295081968,
+    "recall": 0.5377358490566038,
+    "f1-score": 0.6826347305389222,
+    "support": 106.0
+  },
+  "Puckering": {
+    "precision": 0.7288135593220338,
+    "recall": 0.7478260869565218,
+    "f1-score": 0.7381974248927039,
+    "support": 115.0
+  },
+  "Stain and damage": {
+    "precision": 0.9264705882352942,
+    "recall": 0.65625,
+    "f1-score": 0.7682926829268293,
+    "support": 96.0
+  },
+  "Needle mark": {
+    "precision": 0.32142857142857145,
+    "recall": 0.27,
+    "f1-score": 0.29347826086956524,
+    "support": 100.0
+  },
+  "Bobbin thread pulling up": {
+    "precision": 0.956140350877193,
+    "recall": 0.9732142857142857,
+    "f1-score": 0.9646017699115044,
+    "support": 112.0
+  },
+  "Overlapped stitch": {
+    "precision": 0.7920792079207921,
+    "recall": 0.7017543859649122,
+    "f1-score": 0.7441860465116279,
+    "support": 114.0
+  },
+  "accuracy": 0.7120622568093385,
+  "macro avg": {
+    "precision": 0.7606672582138281,
+    "recall": 0.6924603983829539,
+    "f1-score": 0.7127242931824896,
+    "support": 1285.0
+  },
+  "weighted avg": {
+    "precision": 0.7408663616846795,
+    "recall": 0.7120622568093385,
+    "f1-score": 0.7114120914339696,
+    "support": 1285.0
+  }
+}

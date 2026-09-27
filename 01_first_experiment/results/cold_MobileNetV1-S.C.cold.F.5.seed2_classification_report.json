@@ -1,0 +1,81 @@
+{
+  "Normal": {
+    "precision": 0.6531531531531531,
+    "recall": 0.6682027649769585,
+    "f1-score": 0.6605922551252847,
+    "support": 217.0
+  },
+  "Skipped stitch": {
+    "precision": 0.6,
+    "recall": 0.7346938775510204,
+    "f1-score": 0.6605504587155964,
+    "support": 98.0
+  },
+  "Broken stitch": {
+    "precision": 0.75,
+    "recall": 0.9489795918367347,
+    "f1-score": 0.8378378378378378,
+    "support": 98.0
+  },
+  "Pinched fabric": {
+    "precision": 0.9702970297029703,
+    "recall": 1.0,
+    "f1-score": 0.9849246231155779,
+    "support": 98.0
+  },
+  "Crooked seam": {
+    "precision": 0.97,
+    "recall": 0.9897959183673469,
+    "f1-score": 0.9797979797979798,
+    "support": 98.0
+  },
+  "Thread sagging": {
+    "precision": 0.9878048780487805,
+    "recall": 0.8804347826086957,
+    "f1-score": 0.9310344827586207,
+    "support": 92.0
+  },
+  "Puckering": {
+    "precision": 1.0,
+    "recall": 0.8645833333333334,
+    "f1-score": 0.9273743016759777,
+    "support": 96.0
+  },
+  "Stain and damage": {
+    "precision": 0.9464285714285714,
+    "recall": 0.5520833333333334,
+    "f1-score": 0.6973684210526315,
+    "support": 96.0
+  },
+  "Needle mark": {
+    "precision": 0.19047619047619047,
+    "recall": 0.08080808080808081,
+    "f1-score": 0.11347517730496454,
+    "support": 99.0
+  },
+  "Bobbin thread pulling up": {
+    "precision": 0.5363128491620112,
+    "recall": 0.9795918367346939,
+    "f1-score": 0.6931407942238267,
+    "support": 98.0
+  },
+  "Overlapped stitch": {
+    "precision": 0.8987341772151899,
+    "recall": 0.7244897959183674,
+    "f1-score": 0.8022598870056498,
+    "support": 98.0
+  },
+  "accuracy": 0.7550505050505051,
+  "macro avg": {
+    "precision": 0.7730188044715334,
+    "recall": 0.7657875741335058,
+    "f1-score": 0.7534869289649044,
+    "support": 1188.0
+  },
+  "weighted avg": {
+    "precision": 0.758762867192647,
+    "recall": 0.7550505050505051,
+    "f1-score": 0.7425481234169796,
+    "support": 1188.0
+  }
+}

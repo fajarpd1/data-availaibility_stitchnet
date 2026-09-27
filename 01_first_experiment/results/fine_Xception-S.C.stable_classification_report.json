@@ -1,0 +1,81 @@
+{
+  "Normal": {
+    "precision": 0.9816700610997964,
+    "recall": 0.9897330595482546,
+    "f1-score": 0.9856850715746421,
+    "support": 487.0
+  },
+  "Skipped stitch": {
+    "precision": 0.9917695473251029,
+    "recall": 0.9717741935483871,
+    "f1-score": 0.9816700610997964,
+    "support": 248.0
+  },
+  "Broken stitch": {
+    "precision": 0.9957627118644068,
+    "recall": 0.9710743801652892,
+    "f1-score": 0.9832635983263598,
+    "support": 242.0
+  },
+  "Pinched fabric": {
+    "precision": 0.9957983193277311,
+    "recall": 0.9916317991631799,
+    "f1-score": 0.9937106918238994,
+    "support": 239.0
+  },
+  "Crooked seam": {
+    "precision": 0.9713114754098361,
+    "recall": 0.9673469387755103,
+    "f1-score": 0.9693251533742331,
+    "support": 245.0
+  },
+  "Thread sagging": {
+    "precision": 0.9789029535864979,
+    "recall": 0.9914529914529915,
+    "f1-score": 0.9851380042462845,
+    "support": 234.0
+  },
+  "Puckering": {
+    "precision": 0.992,
+    "recall": 0.992,
+    "f1-score": 0.992,
+    "support": 250.0
+  },
+  "Stain and damage": {
+    "precision": 0.9955555555555555,
+    "recall": 0.9739130434782609,
+    "f1-score": 0.9846153846153847,
+    "support": 230.0
+  },
+  "Needle mark": {
+    "precision": 0.972,
+    "recall": 0.9838056680161943,
+    "f1-score": 0.9778672032193159,
+    "support": 247.0
+  },
+  "Bobbin thread pulling up": {
+    "precision": 0.98046875,
+    "recall": 0.996031746031746,
+    "f1-score": 0.9881889763779528,
+    "support": 252.0
+  },
+  "Overlapped stitch": {
+    "precision": 0.9753086419753086,
+    "recall": 0.9916317991631799,
+    "f1-score": 0.983402489626556,
+    "support": 239.0
+  },
+  "accuracy": 0.9842087195331274,
+  "macro avg": {
+    "precision": 0.9845952741949304,
+    "recall": 0.9836723290311812,
+    "f1-score": 0.9840787849349475,
+    "support": 2913.0
+  },
+  "weighted avg": {
+    "precision": 0.9843034029891065,
+    "recall": 0.9842087195331274,
+    "f1-score": 0.9842045868333368,
+    "support": 2913.0
+  }
+}

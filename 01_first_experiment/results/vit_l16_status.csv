@@ -1,0 +1,8 @@
+model,status,detail
+vit-l16-fe,symbolic_call_fail,"Exception encountered when calling layer 'vit_feature_extractor' (type KerasLayer).
+
+A KerasTensor is symbolic: it's a placeholder for a shape an a dtype. It doesn't have any actual numerical value. You cannot convert it to a NumPy array.
+
+Call arguments received by layer 'vit_feature_extractor' (type KerasLayer):
+  • inputs=<KerasTensor shape=(None, 224, 224, 3), dtype=float32, sparse=False, ragged=False, name=keras_tensor>
+  • training=None"

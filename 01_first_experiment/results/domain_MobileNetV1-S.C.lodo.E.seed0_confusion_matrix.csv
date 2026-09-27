@@ -1,0 +1,12 @@
+,Normal,Skipped stitch,Broken stitch,Pinched fabric,Crooked seam,Thread sagging,Puckering,Stain and damage,Needle mark,Bobbin thread pulling up,Overlapped stitch
+Normal,132,0,0,0,0,0,0,0,118,0,0
+Skipped stitch,7,65,0,0,2,0,0,0,34,0,0
+Broken stitch,2,7,85,0,5,0,0,0,3,0,0
+Pinched fabric,1,3,0,56,24,0,11,0,10,0,0
+Crooked seam,10,0,0,0,86,0,0,0,11,0,0
+Thread sagging,15,5,0,0,80,10,0,0,2,0,0
+Puckering,9,6,4,2,58,0,11,0,31,0,0
+Stain and damage,7,2,0,0,0,0,0,51,42,0,0
+Needle mark,63,0,0,0,0,0,0,0,43,0,0
+Bobbin thread pulling up,5,0,0,0,0,0,0,0,2,111,0
+Overlapped stitch,33,2,11,0,33,0,0,1,17,0,23

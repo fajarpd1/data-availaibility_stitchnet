@@ -1,0 +1,81 @@
+{
+  "Normal": {
+    "precision": 0.3034891375905201,
+    "recall": 0.946611909650924,
+    "f1-score": 0.4596211365902293,
+    "support": 487.0
+  },
+  "Skipped stitch": {
+    "precision": 0.49038461538461536,
+    "recall": 0.2056451612903226,
+    "f1-score": 0.2897727272727273,
+    "support": 248.0
+  },
+  "Broken stitch": {
+    "precision": 0.9,
+    "recall": 0.3347107438016529,
+    "f1-score": 0.4879518072289157,
+    "support": 242.0
+  },
+  "Pinched fabric": {
+    "precision": 0.8235294117647058,
+    "recall": 0.8200836820083682,
+    "f1-score": 0.8218029350104822,
+    "support": 239.0
+  },
+  "Crooked seam": {
+    "precision": 0.5955882352941176,
+    "recall": 0.3306122448979592,
+    "f1-score": 0.4251968503937008,
+    "support": 245.0
+  },
+  "Thread sagging": {
+    "precision": 0.435,
+    "recall": 0.3717948717948718,
+    "f1-score": 0.4009216589861751,
+    "support": 234.0
+  },
+  "Puckering": {
+    "precision": 0.6326530612244898,
+    "recall": 0.372,
+    "f1-score": 0.46851385390428213,
+    "support": 250.0
+  },
+  "Stain and damage": {
+    "precision": 0.5,
+    "recall": 0.2608695652173913,
+    "f1-score": 0.34285714285714286,
+    "support": 230.0
+  },
+  "Needle mark": {
+    "precision": 0.375,
+    "recall": 0.26720647773279355,
+    "f1-score": 0.3120567375886525,
+    "support": 247.0
+  },
+  "Bobbin thread pulling up": {
+    "precision": 0.7735849056603774,
+    "recall": 0.4880952380952381,
+    "f1-score": 0.5985401459854015,
+    "support": 252.0
+  },
+  "Overlapped stitch": {
+    "precision": 0.875,
+    "recall": 0.08786610878661087,
+    "f1-score": 0.1596958174904943,
+    "support": 239.0
+  },
+  "accuracy": 0.45314109165808447,
+  "macro avg": {
+    "precision": 0.6094753969926205,
+    "recall": 0.40777236393419386,
+    "f1-score": 0.43335734666438214,
+    "support": 2913.0
+  },
+  "weighted avg": {
+    "precision": 0.5841414017210192,
+    "recall": 0.45314109165808447,
+    "f1-score": 0.43606120938392123,
+    "support": 2913.0
+  }
+}

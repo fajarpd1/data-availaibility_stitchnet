@@ -1,0 +1,7 @@
+model,artifact,path,size_mb,export_status,tflite_validation_status,tflite_validation_images,keras_subset_accuracy,tflite_subset_accuracy,keras_tflite_agreement,mean_abs_prob_diff,max_abs_prob_diff,tflite_inference_ms_per_image,hardware,batch_size,fold_batch_size,input_resolution
+MobileNetV1-S.C.stable,tflite,/kaggle/working/stitchnet-v5-coldstart-worker/models/final_model.tflite,3.2334060668945312,success_cpu_subprocess_dynamic_range,pass,512.0,0.978515625,0.966796875,0.96875,0.008592757396399975,0.9016133546829224,23.445015773177147,"Fri Aug  7 23:43:59 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 580.159.04             Driver Version: 580.159.04     CUDA Vers",16,8,"(224, 224)"
+MobileNetV1-S.C.stable,keras,/kaggle/working/stitchnet-v5-coldstart-worker/models/final_model.keras,36.97832012176514,exists,,,,,,,,,"Fri Aug  7 23:43:59 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 580.159.04             Driver Version: 580.159.04     CUDA Vers",16,8,"(224, 224)"

@@ -1,0 +1,81 @@
+{
+  "Normal": {
+    "precision": 0.9937629937629938,
+    "recall": 0.9815195071868583,
+    "f1-score": 0.987603305785124,
+    "support": 487.0
+  },
+  "Skipped stitch": {
+    "precision": 0.9840637450199203,
+    "recall": 0.9959677419354839,
+    "f1-score": 0.9899799599198397,
+    "support": 248.0
+  },
+  "Broken stitch": {
+    "precision": 0.9916317991631799,
+    "recall": 0.9793388429752066,
+    "f1-score": 0.9854469854469855,
+    "support": 242.0
+  },
+  "Pinched fabric": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 239.0
+  },
+  "Crooked seam": {
+    "precision": 0.9838056680161943,
+    "recall": 0.9918367346938776,
+    "f1-score": 0.9878048780487805,
+    "support": 245.0
+  },
+  "Thread sagging": {
+    "precision": 1.0,
+    "recall": 0.9914529914529915,
+    "f1-score": 0.9957081545064378,
+    "support": 234.0
+  },
+  "Puckering": {
+    "precision": 0.9920634920634921,
+    "recall": 1.0,
+    "f1-score": 0.9960159362549801,
+    "support": 250.0
+  },
+  "Stain and damage": {
+    "precision": 0.9870689655172413,
+    "recall": 0.9956521739130435,
+    "f1-score": 0.9913419913419913,
+    "support": 230.0
+  },
+  "Needle mark": {
+    "precision": 0.9722222222222222,
+    "recall": 0.9919028340080972,
+    "f1-score": 0.9819639278557114,
+    "support": 247.0
+  },
+  "Bobbin thread pulling up": {
+    "precision": 0.9920634920634921,
+    "recall": 0.9920634920634921,
+    "f1-score": 0.9920634920634921,
+    "support": 252.0
+  },
+  "Overlapped stitch": {
+    "precision": 0.9957627118644068,
+    "recall": 0.9832635983263598,
+    "f1-score": 0.9894736842105263,
+    "support": 239.0
+  },
+  "accuracy": 0.9903879162375557,
+  "macro avg": {
+    "precision": 0.9902222808811948,
+    "recall": 0.9911816287777646,
+    "f1-score": 0.9906729377667154,
+    "support": 2913.0
+  },
+  "weighted avg": {
+    "precision": 0.9904516247505306,
+    "recall": 0.9903879162375557,
+    "f1-score": 0.9903899267117003,
+    "support": 2913.0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "verdict": "COLD_START_COMPLETE",
+  "source_folder": "q1-deployment-validity-study/Stitchnet-v5-partial run/#RunResult/stitchnet_v5_cold_start_checkpoint_FINAL_SEED1_IJK_FROM_180_ROWS_after_seed1_domainK_20260809_111350",
+  "intermediate_domain_j_folder": "q1-deployment-validity-study/Stitchnet-v5-partial run/#RunResult/stitchnet_v5_cold_start_checkpoint_FINAL_SEED1_IJK_FROM_180_ROWS_after_seed1_domainJ_20260809_101622",
+  "rows": 198,
+  "valid_protocol_keys": 198,
+  "expected_protocol_keys": 198,
+  "missing_count": 0,
+  "extra_count": 0,
+  "duplicate_key_rows": 0,
+  "hash_pandas_sha1_12": "7e67ef84afda",
+  "complete_seed_domains": {
+    "0": "ABCDEFGHIJK",
+    "1": "ABCDEFGHIJK",
+    "2": "ABCDEFGHIJK"
+  },
+  "note": "The original checkpoint reports/protocol_validity_audit.csv is stale and still says found 186. This local audit verifies the CSV itself has 198/198 keys."
+}

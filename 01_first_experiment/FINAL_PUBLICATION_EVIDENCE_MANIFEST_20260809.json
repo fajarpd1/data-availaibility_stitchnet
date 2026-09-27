@@ -1,0 +1,82 @@
+{
+  "package": "q1-deployment-validity-study/Stitchnet-v5-partial run/#RunResult/_selected_for_use_20260809/stitchnet_q1_ready_v5_final_publication_evidence_20260809_local",
+  "zip": "q1-deployment-validity-study/Stitchnet-v5-partial run/#RunResult/_selected_for_use_20260809/stitchnet_q1_ready_v5_final_publication_evidence_20260809_local.zip",
+  "purpose": "Local final publication evidence package combining verified 33-row LODO and 198-row cold-start aggregate results.",
+  "created_utc": "2026-08-09T11:42:47.922756+00:00",
+  "inputs": {
+    "base_compact_evidence": "q1-deployment-validity-study/Stitchnet-v5-partial run/#RunResult/_selected_for_use_20260808/stitchnet_q1_ready_v5_compact_evidence_20260808_045918",
+    "lodo_33_row_csv": "q1-deployment-validity-study/Stitchnet-v5-partial run/#RunResult/_selected_for_use_20260808/lodo_complete_from_normalized_checkpoint_20260712/source_lodo_folder/domain_generalisation_results (1).csv",
+    "coldstart_198_row_csv": "q1-deployment-validity-study/Stitchnet-v5-partial run/#RunResult/_selected_for_use_20260809/cold_start_selected_merged_198_rows.csv"
+  },
+  "protocol_audit": [
+    {
+      "protocol": "domain_generalisation",
+      "row_count": 33,
+      "expected_rows": 33,
+      "valid_keys": 33,
+      "row_count_ok": true,
+      "key_coverage_ok": true,
+      "duplicate_key_rows": 0,
+      "no_errors": true,
+      "metric_columns_present": true,
+      "missing_count": 0,
+      "extra_count": 0,
+      "detail": "0 non-null error rows; missing=0; extra=0; duplicates=0"
+    },
+    {
+      "protocol": "cold_start_adaptation",
+      "row_count": 198,
+      "expected_rows": 198,
+      "valid_keys": 198,
+      "row_count_ok": true,
+      "key_coverage_ok": true,
+      "duplicate_key_rows": 0,
+      "no_errors": true,
+      "metric_columns_present": true,
+      "missing_count": 0,
+      "extra_count": 0,
+      "detail": "0 non-null error rows; missing=0; extra=0; duplicates=0"
+    }
+  ],
+  "readiness_summary": {
+    "verdict": "PUBLICATION_PROTOCOL_DATA_READY_WITH_WARNINGS",
+    "protocol_data_ready": true,
+    "missing_artifacts": [],
+    "failed_protocols": [],
+    "warnings": [
+      "some_confusion_matrices_have_collapsed_prediction_support; inspect before making class-coverage claims"
+    ],
+    "collapsed_outputs_count": 32,
+    "collapsed_outputs_preview": [
+      "cold_MobileNetV1-S.C.cold.A.0.seed2_confusion_matrix.csv",
+      "cold_MobileNetV1-S.C.cold.C.0.seed2_confusion_matrix.csv",
+      "cold_MobileNetV1-S.C.cold.C.1.seed2_confusion_matrix.csv",
+      "cold_MobileNetV1-S.C.cold.D.0.seed2_confusion_matrix.csv",
+      "cold_MobileNetV1-S.C.cold.D.1.seed2_confusion_matrix.csv",
+      "domain_MobileNetV1-S.C.lodo.A.seed0_confusion_matrix.csv",
+      "domain_MobileNetV1-S.C.lodo.A.seed1_confusion_matrix.csv",
+      "domain_MobileNetV1-S.C.lodo.A.seed2_confusion_matrix.csv",
+      "domain_MobileNetV1-S.C.lodo.B.seed1_confusion_matrix.csv",
+      "domain_MobileNetV1-S.C.lodo.C.seed0_confusion_matrix.csv",
+      "domain_MobileNetV1-S.C.lodo.C.seed1_confusion_matrix.csv",
+      "domain_MobileNetV1-S.C.lodo.C.seed2_confusion_matrix.csv",
+      "domain_MobileNetV1-S.C.lodo.D.seed0_confusion_matrix.csv",
+      "domain_MobileNetV1-S.C.lodo.D.seed1_confusion_matrix.csv",
+      "domain_MobileNetV1-S.C.lodo.D.seed2_confusion_matrix.csv",
+      "domain_MobileNetV1-S.C.lodo.F.seed0_confusion_matrix.csv",
+      "domain_MobileNetV1-S.C.lodo.F.seed1_confusion_matrix.csv",
+      "domain_MobileNetV1-S.C.lodo.F.seed2_confusion_matrix.csv",
+      "domain_MobileNetV1-S.C.lodo.G.seed0_confusion_matrix.csv",
+      "domain_MobileNetV1-S.C.lodo.G.seed1_confusion_matrix.csv",
+      "domain_MobileNetV1-S.C.lodo.G.seed2_confusion_matrix.csv",
+      "domain_MobileNetV1-S.C.lodo.H.seed0_confusion_matrix.csv",
+      "domain_MobileNetV1-S.C.lodo.H.seed2_confusion_matrix.csv",
+      "domain_MobileNetV1-S.C.lodo.I.seed0_confusion_matrix.csv",
+      "domain_MobileNetV1-S.C.lodo.I.seed1_confusion_matrix.csv"
+    ],
+    "source_base_package": "q1-deployment-validity-study/Stitchnet-v5-partial run/#RunResult/_selected_for_use_20260808/stitchnet_q1_ready_v5_compact_evidence_20260808_045918",
+    "source_lodo_csv": "q1-deployment-validity-study/Stitchnet-v5-partial run/#RunResult/_selected_for_use_20260808/lodo_complete_from_normalized_checkpoint_20260712/source_lodo_folder/domain_generalisation_results (1).csv",
+    "source_coldstart_csv": "q1-deployment-validity-study/Stitchnet-v5-partial run/#RunResult/_selected_for_use_20260809/cold_start_selected_merged_198_rows.csv",
+    "created_utc": "2026-08-09T11:42:47.922756+00:00"
+  }
+}

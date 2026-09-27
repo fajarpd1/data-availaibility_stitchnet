@@ -1,0 +1,2 @@
+status,examples_requested,examples_generated,error,last_conv_layer,path
+pass,6,6,,conv_pw_13,/kaggle/working/stitchnet-v5-coldstart-worker/figures/failure_case_gradcam_gallery.png

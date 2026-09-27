@@ -1,0 +1,81 @@
+{
+  "Normal": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 217.0
+  },
+  "Skipped stitch": {
+    "precision": 0.875,
+    "recall": 0.13725490196078433,
+    "f1-score": 0.23728813559322035,
+    "support": 102.0
+  },
+  "Broken stitch": {
+    "precision": 0.7962962962962963,
+    "recall": 0.4174757281553398,
+    "f1-score": 0.5477707006369427,
+    "support": 103.0
+  },
+  "Pinched fabric": {
+    "precision": 0.7611940298507462,
+    "recall": 1.0,
+    "f1-score": 0.864406779661017,
+    "support": 102.0
+  },
+  "Crooked seam": {
+    "precision": 1.0,
+    "recall": 0.39603960396039606,
+    "f1-score": 0.5673758865248227,
+    "support": 101.0
+  },
+  "Thread sagging": {
+    "precision": 0.1676829268292683,
+    "recall": 0.5238095238095238,
+    "f1-score": 0.2540415704387991,
+    "support": 105.0
+  },
+  "Puckering": {
+    "precision": 0.2660098522167488,
+    "recall": 0.5294117647058824,
+    "f1-score": 0.3540983606557377,
+    "support": 102.0
+  },
+  "Stain and damage": {
+    "precision": 0.7299270072992701,
+    "recall": 0.9259259259259259,
+    "f1-score": 0.8163265306122449,
+    "support": 108.0
+  },
+  "Needle mark": {
+    "precision": 0.18118466898954705,
+    "recall": 0.4642857142857143,
+    "f1-score": 0.2606516290726817,
+    "support": 112.0
+  },
+  "Bobbin thread pulling up": {
+    "precision": 0.6666666666666666,
+    "recall": 0.07142857142857142,
+    "f1-score": 0.12903225806451613,
+    "support": 112.0
+  },
+  "Overlapped stitch": {
+    "precision": 0.7457627118644068,
+    "recall": 0.41509433962264153,
+    "f1-score": 0.5333333333333333,
+    "support": 106.0
+  },
+  "accuracy": 0.4031496062992126,
+  "macro avg": {
+    "precision": 0.5627021963648137,
+    "recall": 0.44370237035043447,
+    "f1-score": 0.4149386531448469,
+    "support": 1270.0
+  },
+  "weighted avg": {
+    "precision": 0.5098364847605673,
+    "recall": 0.4031496062992126,
+    "f1-score": 0.3757730864112799,
+    "support": 1270.0
+  }
+}

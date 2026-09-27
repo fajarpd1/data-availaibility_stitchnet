@@ -1,0 +1,7 @@
+{
+  "final_model_label": "MobileNetV1-S.C.stable",
+  "final_base_model": "MobileNetV1",
+  "selection_policy": "deployment_validity_backbone",
+  "deployment_validity_model_name": "MobileNetV1",
+  "final_model_keras_path": "/kaggle/working/stitchnet_q1_ready_v5_compact/models/final_model.keras"
+}

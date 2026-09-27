@@ -1,0 +1,81 @@
+{
+  "Normal": {
+    "precision": 0.6363636363636364,
+    "recall": 0.32710280373831774,
+    "f1-score": 0.43209876543209874,
+    "support": 214.0
+  },
+  "Skipped stitch": {
+    "precision": 0.30952380952380953,
+    "recall": 0.09420289855072464,
+    "f1-score": 0.14444444444444443,
+    "support": 138.0
+  },
+  "Broken stitch": {
+    "precision": 0.6589147286821705,
+    "recall": 0.8018867924528302,
+    "f1-score": 0.723404255319149,
+    "support": 106.0
+  },
+  "Pinched fabric": {
+    "precision": 1.0,
+    "recall": 0.8823529411764706,
+    "f1-score": 0.9375,
+    "support": 102.0
+  },
+  "Crooked seam": {
+    "precision": 0.23529411764705882,
+    "recall": 0.03571428571428571,
+    "f1-score": 0.06201550387596899,
+    "support": 112.0
+  },
+  "Thread sagging": {
+    "precision": 0.16666666666666666,
+    "recall": 0.4019607843137255,
+    "f1-score": 0.23563218390804597,
+    "support": 102.0
+  },
+  "Puckering": {
+    "precision": 0.5555555555555556,
+    "recall": 0.30612244897959184,
+    "f1-score": 0.39473684210526316,
+    "support": 98.0
+  },
+  "Stain and damage": {
+    "precision": 0.49612403100775193,
+    "recall": 0.6274509803921569,
+    "f1-score": 0.5541125541125541,
+    "support": 102.0
+  },
+  "Needle mark": {
+    "precision": 0.4778761061946903,
+    "recall": 0.5294117647058824,
+    "f1-score": 0.5023255813953489,
+    "support": 102.0
+  },
+  "Bobbin thread pulling up": {
+    "precision": 0.27887323943661974,
+    "recall": 0.717391304347826,
+    "f1-score": 0.40162271805273836,
+    "support": 138.0
+  },
+  "Overlapped stitch": {
+    "precision": 0.9302325581395349,
+    "recall": 0.3508771929824561,
+    "f1-score": 0.5095541401273885,
+    "support": 114.0
+  },
+  "accuracy": 0.4442771084337349,
+  "macro avg": {
+    "precision": 0.5223113135652268,
+    "recall": 0.4613158361231152,
+    "f1-score": 0.44522245352481826,
+    "support": 1328.0
+  },
+  "weighted avg": {
+    "precision": 0.5213987073961888,
+    "recall": 0.4442771084337349,
+    "f1-score": 0.4334657731975027,
+    "support": 1328.0
+  }
+}

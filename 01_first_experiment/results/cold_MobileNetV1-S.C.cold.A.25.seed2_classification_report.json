@@ -1,0 +1,81 @@
+{
+  "Normal": {
+    "precision": 0.839622641509434,
+    "recall": 0.9368421052631579,
+    "f1-score": 0.8855721393034826,
+    "support": 190.0
+  },
+  "Skipped stitch": {
+    "precision": 0.8048780487804879,
+    "recall": 0.5789473684210527,
+    "f1-score": 0.673469387755102,
+    "support": 114.0
+  },
+  "Broken stitch": {
+    "precision": 0.9583333333333334,
+    "recall": 0.8414634146341463,
+    "f1-score": 0.8961038961038961,
+    "support": 82.0
+  },
+  "Pinched fabric": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 78.0
+  },
+  "Crooked seam": {
+    "precision": 0.9880952380952381,
+    "recall": 0.9431818181818182,
+    "f1-score": 0.9651162790697675,
+    "support": 88.0
+  },
+  "Thread sagging": {
+    "precision": 0.9807692307692307,
+    "recall": 0.6538461538461539,
+    "f1-score": 0.7846153846153846,
+    "support": 78.0
+  },
+  "Puckering": {
+    "precision": 0.6764705882352942,
+    "recall": 0.9324324324324325,
+    "f1-score": 0.7840909090909091,
+    "support": 74.0
+  },
+  "Stain and damage": {
+    "precision": 0.8192771084337349,
+    "recall": 0.8717948717948718,
+    "f1-score": 0.84472049689441,
+    "support": 78.0
+  },
+  "Needle mark": {
+    "precision": 0.891566265060241,
+    "recall": 0.9487179487179487,
+    "f1-score": 0.9192546583850931,
+    "support": 78.0
+  },
+  "Bobbin thread pulling up": {
+    "precision": 0.819672131147541,
+    "recall": 0.8771929824561403,
+    "f1-score": 0.847457627118644,
+    "support": 114.0
+  },
+  "Overlapped stitch": {
+    "precision": 0.9148936170212766,
+    "recall": 0.9555555555555556,
+    "f1-score": 0.9347826086956522,
+    "support": 90.0
+  },
+  "accuracy": 0.8665413533834586,
+  "macro avg": {
+    "precision": 0.8812343820350738,
+    "recall": 0.8672704228457525,
+    "f1-score": 0.8668348533665764,
+    "support": 1064.0
+  },
+  "weighted avg": {
+    "precision": 0.8746313617275929,
+    "recall": 0.8665413533834586,
+    "f1-score": 0.8637202653844597,
+    "support": 1064.0
+  }
+}

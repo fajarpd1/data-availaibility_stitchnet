@@ -1,0 +1,81 @@
+{
+  "Normal": {
+    "precision": 0.6018518518518519,
+    "recall": 0.896551724137931,
+    "f1-score": 0.7202216066481995,
+    "support": 145.0
+  },
+  "Skipped stitch": {
+    "precision": 0.35294117647058826,
+    "recall": 0.35294117647058826,
+    "f1-score": 0.35294117647058826,
+    "support": 51.0
+  },
+  "Broken stitch": {
+    "precision": 0.5957446808510638,
+    "recall": 0.5384615384615384,
+    "f1-score": 0.5656565656565656,
+    "support": 52.0
+  },
+  "Pinched fabric": {
+    "precision": 1.0,
+    "recall": 0.9607843137254902,
+    "f1-score": 0.98,
+    "support": 51.0
+  },
+  "Crooked seam": {
+    "precision": 0.7391304347826086,
+    "recall": 0.27419354838709675,
+    "f1-score": 0.4,
+    "support": 62.0
+  },
+  "Thread sagging": {
+    "precision": 1.0,
+    "recall": 0.8113207547169812,
+    "f1-score": 0.8958333333333334,
+    "support": 53.0
+  },
+  "Puckering": {
+    "precision": 1.0,
+    "recall": 0.9574468085106383,
+    "f1-score": 0.9782608695652174,
+    "support": 47.0
+  },
+  "Stain and damage": {
+    "precision": 0.9032258064516129,
+    "recall": 0.6222222222222222,
+    "f1-score": 0.7368421052631579,
+    "support": 45.0
+  },
+  "Needle mark": {
+    "precision": 0.9166666666666666,
+    "recall": 0.9166666666666666,
+    "f1-score": 0.9166666666666666,
+    "support": 60.0
+  },
+  "Bobbin thread pulling up": {
+    "precision": 0.9454545454545454,
+    "recall": 0.8524590163934426,
+    "f1-score": 0.896551724137931,
+    "support": 61.0
+  },
+  "Overlapped stitch": {
+    "precision": 0.7924528301886793,
+    "recall": 0.9130434782608695,
+    "f1-score": 0.8484848484848485,
+    "support": 46.0
+  },
+  "accuracy": 0.7533432392273403,
+  "macro avg": {
+    "precision": 0.804315272065238,
+    "recall": 0.7360082952684969,
+    "f1-score": 0.7537689905660462,
+    "support": 673.0
+  },
+  "weighted avg": {
+    "precision": 0.7768856576984021,
+    "recall": 0.7533432392273403,
+    "f1-score": 0.745856693690819,
+    "support": 673.0
+  }
+}
