@@ -31,12 +31,19 @@ corresponding author on reasonable request.
     / `.ipynb` (fixed-query-set cold-start protocol, 198 runs)
 - `results/` — per-run metrics, predictions (`y_true`/`y_pred`/`y_prob`),
   confusion matrices, classification reports for the fixed-query cold-start
-  runs and the matched-budget/Grad-CAM LODO checkpoints.
+  runs and the matched-budget/Grad-CAM LODO checkpoints. **This is the
+  canonical source for every matched-budget LODO and LODO-condition
+  calibration number reported in the manuscript**
+  (`domain_generalisation_matched_budget_results.csv`,
+  `calibration_lodo_matched_results.csv`, `calibration_lodo_matched_summary.csv`).
 - `figures/` — Grad-CAM galleries (fixed-query cold-start, matched-budget
   LODO, domains I and C).
-- `kaggle_matched_budget_run/` — Kaggle-executed copy of the matched-budget
-  LODO run: per-seed metrics, confusion matrices, classification reports, and
-  saved predictions for domains I, C, E, and G.
+- `kaggle_matched_budget_run/` — a preliminary, Kaggle-executed run of the
+  matched-budget LODO protocol, superseded by the canonical run above. Kept
+  for transparency only; **not** the source of any number reported in the
+  manuscript. Its two summary CSVs are suffixed `_PRELIMINARY_KAGGLE_SUPERSEDED`
+  to avoid being confused with the identically-named canonical files in
+  `results/` above (see this folder's own `README.md`).
 - `dataset_profile.json`, `runtime_info.json` — run metadata for this stage.
 
 ## Source paths on the working machine
